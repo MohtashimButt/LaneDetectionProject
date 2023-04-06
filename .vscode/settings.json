@@ -1,0 +1,24 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "c:\\ProgramData\\Miniconda3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Mohtashim Butt\\.conda\\envs\\CVProj\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Mohtashim Butt\\.conda\\envs\\just_once\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Mohtashim Butt\\.conda\\envs\\PA3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Mohtashim Butt\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
