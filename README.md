@@ -12,8 +12,7 @@ The main network architecture is as follows:
 
 | Raw Video                                            | Generated Top-View                                            |
 | -------------------------------------------------- | -------------------------------------------------- |
-| [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/Zj35vRgeXLs?si=94Sic-XwypMSILr2)
- | |
+| ![GitHub Octocat GIF](https://github.com/MohtashimButt/LaneDetectionProject/blob/main/results/input_video.gif)| ![GitHub Octocat GIF](https://github.com/MohtashimButt/LaneDetectionProject/blob/main/results/output_video.gif)|
 
 
 ## Installation
