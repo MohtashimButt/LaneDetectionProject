@@ -230,10 +230,6 @@ cd MNN_PROJECT_ROOT_DIR/tools/converter/build
 Add lanenet source code into MNN project and modified CMakeList.txt to 
 compile the executable binary file.
 
-## Status
-
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/ffa5169a3a4002d4f573b12be173c9382d14b78a.svg "Repobeats analytics image")
-
 ## TODO
 - [x] Add a embedding visualization tools to visualize the embedding feature map
 - [x] Add detailed explanation of training the components of lanenet separately.
@@ -248,9 +244,3 @@ The lanenet project refers to the following projects:
 - [MNN](https://github.com/alibaba/MNN)
 - [SimpleDBSCAN](https://github.com/CallmeNezha/SimpleDBSCAN)
 - [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-
-## Contact
-
-Scan the following QR to disscuss :)
-![qr](./data/source_image/qr.jpg)
-# LaneDetectionProject
