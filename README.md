@@ -11,7 +11,7 @@ The main network architecture is as follows:
 
 | Raw Video                                            | Generated Top-View                                            |
 | -------------------------------------------------- | -------------------------------------------------- |
-| [![Video 1](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) | [![Video 2](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) |
+| [![Video 1](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/MohtashimButt/LaneDetectionProject/blob/main/input_video.avi) | [![Video 2](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/MohtashimButt/LaneDetectionProject/blob/main/output_video.avi) |
 
 
 ## Installation
