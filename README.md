@@ -9,9 +9,10 @@ The main network architecture is as follows:
 `Network Architecture`
 ![NetWork_Architecture](./data/source_image/network_architecture.png)
 
+
 | Raw Video                                            | Generated Top-View                                            |
 | -------------------------------------------------- | -------------------------------------------------- |
-| [![Video 1](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/MohtashimButt/LaneDetectionProject/blob/main/input_video.avi) | [![Video 2](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/MohtashimButt/LaneDetectionProject/blob/main/output_video.avi) |
+| [Uploading input_video.avi…]() | |
 
 
 ## Installation
