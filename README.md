@@ -12,7 +12,8 @@ The main network architecture is as follows:
 
 | Raw Video                                            | Generated Top-View                                            |
 | -------------------------------------------------- | -------------------------------------------------- |
-| [Uploading input_video.avi…]() | |
+| [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/Zj35vRgeXLs?si=94Sic-XwypMSILr2)
+ | |
 
 
 ## Installation
